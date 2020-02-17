@@ -4,3 +4,9 @@ h1,body{
 table{
     align: center;
 }
+button{
+    border: none;
+    background: white;
+    font-size: 2em;
+    color: blue;
+}
